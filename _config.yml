@@ -12,7 +12,7 @@ rich_title  : "<strong>BackChat.io</strong> Documentation Template"
 rich_byline : "Where documentation goes to be <strong>awesome</strong>"
 sponsor:
   byline    : "Sponsored by"
-  logo      : "imgs/logo.png"
+  logo      : "//assets.backchat.io/images/logo.png"
   name      : "BackChat.io"
   url       : "https://backchat.io"
 
